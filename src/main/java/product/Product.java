@@ -3,6 +3,14 @@ package product;
 public class Product {
 	
 	String name;
+	public Product(String name, String price, String image) {
+		super();
+		this.name = name;
+		this.price = price;
+		this.image = image;
+	}
+
+
 	String price;
 	String image;
 	

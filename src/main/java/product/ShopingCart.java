@@ -30,10 +30,10 @@ public class ShopingCart implements Productlist {
 	}
 
 	@Override
-	public void showProducts() {
+	public String showProducts() {
 		// TODO Auto-generated method stub
 
-		cardProductsMap.toString();
+		return cardProductsMap.toString();
 
 	}
 	

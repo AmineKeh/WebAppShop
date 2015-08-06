@@ -1,0 +1,25 @@
+* {
+  font-family: arial;
+}
+
+header .headerLeft {
+  float:left;
+  width:25%;
+  text-align: center;
+}
+header .headerRight {
+  float:left;
+  width:75%;
+}
+header section nav ul {
+  list-style: none;
+}
+
+header section nav ul li {
+  float:left;
+  margin-right:20px;
+}
+
+.clear {
+  clear:both;
+}

@@ -22,12 +22,12 @@ public class ShopController {
 		
 		return "books";
 	}
-	@RequestMapping(value = "/books/cart", method = RequestMethod.GET)
+	@RequestMapping(value = "/cart", method = RequestMethod.GET)
 	public String cart(Locale locale, Model model) {
 		
 		return "cart";
 	}
-	@RequestMapping(value = "/books/pay", method = RequestMethod.GET)
+	@RequestMapping(value = "/pay", method = RequestMethod.GET)
 	public String pay(Locale locale, Model model) {
 		
 		return "cart";

@@ -5,7 +5,7 @@
           <img src="" alt="image of product {name}" />
         </section>
         <section id="recommendedReading">
-          <h2>Recommended Reading</h2>
+          <h2>Recommended Reading zrdrt</h2>
           <ul>
             <li><img src="" alt="image of product {name}" /></li>
             <li><img src="" alt="image of product {name}" /></li>
